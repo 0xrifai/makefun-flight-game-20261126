@@ -29,6 +29,14 @@ writes `/output/dossier.json` with `buildDossier` from
 
 ## Controls
 
-Throttle, pitch and roll on the keyboard; mouse steers the camera. Fly
-through the glowing rings in order, watch the fuel gauge, and land on the
-runway to refuel — hard landings damage the plane.
+- **W / S** — throttle up / down (the engine answers at every speed)
+- **Arrow Up / Down** — pitch up / down
+- **Arrow Left / Right** (or **A / D**) — roll and bank into turns
+- **Mouse drag** — steer gently and look around the chase view (the camera
+  eases back behind the plane when the mouse rests)
+- **Enter** — start the flight · **R** — fly again after a crash or a landing
+- **P** — pause
+
+Fly through the six glowing rings in order, watch the fuel gauge, and land
+on the runway to refuel — hard landings damage the plane, and the hills and
+the river end the sortie.
